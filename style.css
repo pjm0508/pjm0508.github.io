@@ -177,6 +177,11 @@ section.notice {
 }
 
 .write_button {
-  font-size: 15px;
-  font-weight: 400;
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 108px;
+  padding: 0;
+  font-size: 16px;
 }
