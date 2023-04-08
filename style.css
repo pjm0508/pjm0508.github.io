@@ -175,3 +175,10 @@ section.notice {
   width: 1px;
   height: 1px;
 }
+
+.write_button {
+  padding: 0 30px;
+  font-size: 15px;
+  font-weight: 400;
+}
+  
