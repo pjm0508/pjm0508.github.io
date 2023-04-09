@@ -177,7 +177,7 @@ section.notice {
 }
 
 .write_button {
-   height: 100vh;
+   height: 100px;
    display: flex;
    justify-content: center;
 }
